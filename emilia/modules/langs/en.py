@@ -35,8 +35,9 @@ Available commands are:
     
 Hi {}, my name is {}! 
 
-I am a group manager bot🤖🤖 in [🔰SL PC GAMES CHAT🔰](https://t.me/slpcgame).
-My master is [Isira PiumATH](https://t.me/IsiRAPiumaTH).Speciall thanks for [Prabhasa](https://t.me/prabhasha999) and [Dasun](https://t.me/dasun_pamod)
+I am a group manager bot🤖🤖 in [🎯Ehi podda🎯](https://t.me/ehi_podda).
+My master is [🎭Suresh Manohara🎭](https://t.me/Ranasighe).
+Speciall thanks for [Isira PiumATH](https://t.me/IsiRAPiumaTH) and [Rashmika Dilruksha](https://t.me/RashmikaDilruksha)
 
 
 If you want to start Chat with me, send 👉 /addchat 👈 and reply to my message to start chatting.
